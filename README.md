@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dpkmane
-- 👀 I’m interested in Software Devepolement
-- 🌱 I’m good at java,MySql,React JS,Spring Boot
+- 👀 I’m interested in Software development
+- 🌱 I’m good at Java, MySql, React JS, Spring Boot
 - 📫 How to reach me deepakmane33@gmail.com
 
 <!---
